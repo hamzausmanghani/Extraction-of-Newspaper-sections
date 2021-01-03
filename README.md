@@ -9,7 +9,7 @@
 
 ## ALTERNATIVE
 
--The output can also be achieved by following ways:<br>
+-The output can also be achieved by performing following steps: <br>
 1- Convert image to grayscale. <br>
 2- Apply thresholding/canny filter. <br>
 3- Apply 2D filter with kernal which highlight only horizontal and vertical lines. <br>
