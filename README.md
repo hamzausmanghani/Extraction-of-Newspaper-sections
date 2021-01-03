@@ -7,7 +7,7 @@
 -Used yolov4 to achieve the output.
 
 
-#3 ALTERNATIVE
+## ALTERNATIVE
 
 -The output can also be achieved by following ways:
 1- Convert image to grayscale
